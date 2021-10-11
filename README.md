@@ -3,8 +3,7 @@
 
 - 🔭 Hoje trabalho com desenvolvimento back-end PHP 
 - 🌱 Estudando Laravel
-- 📫 Como me encontrar: ezequiel.coutinho.silva@gmail.com
-- 📱 WhatsApp: https://api.whatsapp.com/send?phone=554192277354&text=Ol%C3%A1%20vim%20pelo%20seu%20perfil%20no%20Git%20Hub
+
 
 <div align="center">
   <a href="https://github.com/ezequielcoutinho">
@@ -24,8 +23,8 @@
   <hr>
   
   <div> 
-  <a href="https://instagram.com/ezequiel.silva.92372" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://api.whatsapp.com/send?phone=554192277354&text=Ol%C3%A1%20vim%20pelo%20seu%20perfil%20no%20Git%20Hub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ezequiel.coutinho.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ezequiel-coutinho-da-silva-7760417a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
